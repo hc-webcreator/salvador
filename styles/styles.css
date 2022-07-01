@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Smooch&display=swap');
+
+p{
+color: red;
+font-size: 40px;
+font-family: 'Smooch',"cursive";
+-webkit-text-stroke: 1px blue;
+}
+
+.header-container {
+border: 1px solid orange;
+text-align: center;
+position: absolute;
+top: 300px;
+display: block;
+width: 100%;
+} 
+
+.card-container{
+    margin: 10px;
+    background-color: blue;
+    border: 10px solid black;
+    align-items: center;
+
+
+}
+
+.card-container2{
+    margin: 10px;
+    background-color: red;
+    border: 10px solid black;
+    align-items: center;
+
+
+}
+
+#button {
+    background-color: blue;
+    color: RED;
+    text-decoration: none;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 50px;
+    padding-top:15px;
+}
+
+#titulo{
+    font-size: 50px;
+    color: orangered;
+    -webkit-text-stroke: 2px blue;
+}
+    
+#subtitulo{
+    font-size: 50px;
+    color: orangered;
+    -webkit-text-stroke: 2px blue;
+} 
+
+.card-title {
+    color: black;
+    border: 1px solid  black;
+}
+
+.card{
+    height: 800px;
+}
+.carousel-caption.d-none.d-md-block{
+    position: absolute;
+    top: 200px;
+}
+
+.btn.btn-primary{
+    background-color: blue;
+    color: red;
+    text-decoration: none;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 50px;
+    padding-top:15px;
+}
